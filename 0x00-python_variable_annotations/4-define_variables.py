@@ -1,5 +1,6 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """Annotations example"""
+
 
 a = int(1)
 pi = float(3.14)
