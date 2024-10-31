@@ -9,6 +9,7 @@ and eventually returns it
 import asyncio
 import random
 
+
 async def wait_random(max_delay: int = 10) -> float:
     """return a wait_time that waits for a random delay
     between 0 and max_delay (included and float value) seconds
